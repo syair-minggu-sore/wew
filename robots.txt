@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-minggu-sore.github.io/wew/sitemap.xml
